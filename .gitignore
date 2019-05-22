@@ -1,3 +1,4 @@
 node_modules
 tests_ouputs
 *.log
+.env
